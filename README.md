@@ -14,4 +14,4 @@
 
 生成 目录.md，在浏览器中打开即可。
 
-![Table of contents](image/Screen Shot 2018-03-08 at 1.47.17 AM.png)
+<kbd><img src="image/Screen Shot 2018-03-08 at 1.47.17 AM.png" style="border: 0.5px solid black;" /></kbd>
